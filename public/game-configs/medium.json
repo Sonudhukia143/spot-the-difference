@@ -1,0 +1,14 @@
+{
+  "gameTitle": "Spot the Difference - Medium",
+  "images": {
+    "image1": "/images/medium/img1.png",
+    "image2": "/images/medium/img2.png"
+  },
+  "differences": [
+    { "x": 130, "y": 80, "width": 60, "height": 40 },
+    { "x": 120, "y": 220, "width": 25, "height": 25 },
+    { "x": 192, "y": 342, "width": 16, "height": 16 },
+    { "x": 415, "y": 155, "width": 10, "height": 10 },
+    { "x": 160, "y": 250, "width": 30, "height": 50 }
+  ]
+} 

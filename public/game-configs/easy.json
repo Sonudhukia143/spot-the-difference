@@ -1,0 +1,12 @@
+{
+  "gameTitle": "Spot the Difference - Easy",
+  "images": {
+    "image1": "/images/easy/img1.png",
+    "image2": "/images/easy/img2.png"
+  },
+  "differences": [
+    { "x": 130, "y": 80, "width": 60, "height": 40 },
+    { "x": 120, "y": 220, "width": 25, "height": 25 },
+    { "x": 192, "y": 342, "width": 16, "height": 16 }
+  ]
+} 

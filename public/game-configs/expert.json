@@ -1,0 +1,19 @@
+{
+  "gameTitle": "Spot the Difference - Expert",
+  "images": {
+    "image1": "/images/expert/img1.png",
+    "image2": "/images/expert/img2.png"
+  },
+  "differences": [
+    { "x": 130, "y": 80, "width": 60, "height": 40 },
+    { "x": 120, "y": 220, "width": 25, "height": 25 },
+    { "x": 192, "y": 342, "width": 16, "height": 16 },
+    { "x": 415, "y": 155, "width": 10, "height": 10 },
+    { "x": 160, "y": 250, "width": 30, "height": 50 },
+    { "x": 270, "y": 150, "width": 60, "height": 60 },
+    { "x": 460, "y": 40, "width": 80, "height": 80 },
+    { "x": 280, "y": 220, "width": 20, "height": 20 },
+    { "x": 0, "y": 300, "width": 600, "height": 100 },
+    { "x": 242, "y": 342, "width": 16, "height": 16 }
+  ]
+} 
