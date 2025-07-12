@@ -90,7 +90,7 @@ const GameImage = ({
       onClick={handleClick}
     >
       {loading && (
-        <div className="absolute inset-0 z-20 flex flex-col items-center justify-center bg-white/80 backdrop-blur-sm">
+        <div className="absolute inset-0 z-20 flex flex-col items-center justify-center bg-white/80 backdrop-blur-sm shadow-[0_0_20px_rgba(59,130,246,0.5)]">
           <div className="w-12 h-12 border-4 border-blue-500 border-t-transparent rounded-full animate-spin"></div>
           <p className="mt-3 text-sm text-gray-700 font-medium">Loading image...</p>
         </div>
